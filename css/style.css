@@ -1,1 +1,17 @@
-# Empty CSS file for your own CSS
+body {
+	margin-top: 10px;
+}
+.fixme {
+	margin-left: 10px;
+}
+/*
+.content { 
+	height: 10px; 
+}
+.fixme { 
+	text-align: center; 
+	width: 100%; 
+	padding: 0px;
+	margin: 0px;
+}
+*/
